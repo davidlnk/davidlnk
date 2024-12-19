@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-### 🔭 I’m currently working on automatic test case generation
-### 🌱 I’m currently interested in deep learning and CNN
-### ⚡ Fun fact: I was born in Pretzel-land 🥨 🇩🇪
+📚 I’m currently working on automatic test case generation
+
+🔬 I’m currently interested in deep learning and CNN
+
+⚡ Fun fact: I was born in Pretzel-land 🥨 🇩🇪
 
 <!--
 **davidlnk/davidlnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
