@@ -2,7 +2,7 @@
 
 📚 I’m currently working on automatic test case generation
 
-🔬 I’m currently interested in deep learning and CNN
+🔬 I’m interested in deep learning and CNNs
 
 ⚡ Fun fact: I was born in Pretzel-land 🥨 🇩🇪
 
